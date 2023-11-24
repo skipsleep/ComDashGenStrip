@@ -1,0 +1,2 @@
+# ComDashGenStrip
+Assignment for Dashtoon
